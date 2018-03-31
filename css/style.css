@@ -1,0 +1,40 @@
+#logo{
+	width:40px;
+	height:40px;
+	margin-right:10px;
+}
+
+.navbar-default{
+   background-color:#6b6b6b38 !important;
+	border-color:transparent;
+	background-image:none;
+	box-shadow:none;	
+}
+ body{
+	 
+	 background-color:#FFFFFF;
+	 
+ }
+ 
+ .main-container{
+	 
+	position:relative; 
+	padding:0px;
+	max-width:inherit;
+	 
+ }
+ 
+ .carousel {
+    position:absolute;
+	width:100%;
+    top:0;    
+}
+.navbar {
+    position:absolute;
+    top:0px;
+    z-index:10;
+    background:#fff;
+    width:100%;
+}
+
+ 
